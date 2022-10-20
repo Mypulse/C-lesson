@@ -47,8 +47,7 @@ int Max (int arg1, int arg2, int arg3)
     if(arg2 > result) result = arg2;
     if(arg3 > result) result = arg3;
     return result;
-
-}
+    }
 
 int max1 = Max(a1,b1,c1);
 int max2 = Max(a2,b2,c2);
